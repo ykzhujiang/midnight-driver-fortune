@@ -1,0 +1,43 @@
+{
+  "verdict": "PASS",
+  "style": "anime",
+  "assets": [
+    {
+      "label": "李铭",
+      "type": "character",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 4,
+      "quality_ok": true,
+      "issues": [
+        "角色佩戴的眼镜偏向全框，与描述中的'半框眼镜'略有不符",
+        "背景霓虹灯招牌和角色胸牌上存在AI生成的无意义乱码文字"
+      ],
+      "retry_suggestion": null
+    },
+    {
+      "label": "赵哥",
+      "type": "character",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    },
+    {
+      "label": "奔驰车内-夜",
+      "type": "scene",
+      "verdict": "PASS",
+      "style_ok": true,
+      "setting_match": true,
+      "description_match": 5,
+      "quality_ok": true,
+      "issues": [],
+      "retry_suggestion": null
+    }
+  ],
+  "summary": "3/3 assets passed"
+}
