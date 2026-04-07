@@ -1,0 +1,33 @@
+{
+  "project": "midnight-driver-fortune",
+  "created_at": "2026-04-07T23:26:13.893843+00:00",
+  "github_repo": "ykzhujiang/midnight-driver-fortune",
+  "config": {
+    "theme": "深夜代驾司机李铭，28岁前程序员，接到神秘乘客赵哥（地下德州扑克圈大佬，40多岁西装微松领带歪微醺）。行驶途中有人冲出马路，李铭踩刹车瞬间眼前闪光——他看到了3秒后的画面：那人会在右边停下不会被撞。面前浮现半透明面板【命运预判系统已激活｜Lv.1｜预判范围：3秒】。赵哥后座醒了：'小伙子反应不错……你信不信命？'李铭内心吐槽：三百万？我代驾三百年。钩子：赵哥邀请李铭参加百万级德州扑克局。搞笑元素：代驾司机觉醒异能的荒诞感+赵哥醉话暗藏深意。",
+    "genre": "都市奇幻/赌术",
+    "style": "anime",
+    "duration": 15,
+    "characters": 2,
+    "setting": "现代中国都市·深夜·城市街道·黑色奔驰车内",
+    "ratio": "9:16",
+    "episode": "ep01"
+  },
+  "status": "not_started",
+  "steps": {
+    "step1b": {
+      "status": "not_started"
+    },
+    "step1.5": {
+      "status": "not_started"
+    },
+    "step3": {
+      "status": "not_started"
+    },
+    "step4": {
+      "status": "not_started"
+    },
+    "step6": {
+      "status": "not_started"
+    }
+  }
+}
